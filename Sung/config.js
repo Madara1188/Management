@@ -17,12 +17,12 @@ const help = {
 // CONSTANTS //
 
 const Config = {
-    'Token' : "Bot Token here",
+    'Token' : "7632045770:AAHLhtbQamkXlXu67mRalNC-6r7pbrHpWgQ",
     'Start_P' : "https://graph.org//file/6a197da7a1e166e62cbda.jpg",
-    'Support_id' : "Support GROUP",
-    "Owner" : 5146000168,
+    'Support_id' : "-1001917426206",
+    "Owner" : 5734659617,
     "Help_data" : help,
-    "Mongo_DB" : "Your Mongo Db uri"
+    "Mongo_DB" : "mongodb+srv://Furina:Furina@cluster0.nqumuxn.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 } ;
 
 
